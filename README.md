@@ -1,2 +1,2 @@
-# HTMLEMAIL
-Email feito com html e css
+# Html-Email
+Template Email feito com html e css
